@@ -13,6 +13,6 @@ Si utilizó una referencia, coloque link (de ser online) o nombre de trabajo, au
 
 -----
 
-# Hora límite: 9 am Venezuela del Lunes 15/07/2024
+# Hora límite: 11:59 am Venezuela del Lunes 15/07/2024
 
 Carguen el .rar asociado a su parcial como hicieron con la tarea anterior en [Entregas](https://ml.ucv.ai/entregas)
